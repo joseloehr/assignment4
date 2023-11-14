@@ -1,1 +1,1 @@
-# just print hello world\nprint("Hello World!")
+print ("Hello World!")
